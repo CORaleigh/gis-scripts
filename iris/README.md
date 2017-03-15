@@ -15,4 +15,4 @@ Scripts are split into two scripts:
   * generated from ArcGIS model, spatial joins the above layers with the property layer and spits out a CSV file with PIN and the corresponding value for each layer.
 * updateiris.py
   * loops through generated CSV file and updates any parcel with a differing value
-  * used cx_Oracle module to connect to and update the IRIS database
+  * uses cx_Oracle module to connect to and update the IRIS database
