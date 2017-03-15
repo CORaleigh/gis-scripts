@@ -16,3 +16,5 @@ Scripts are split into two scripts:
 * updateiris.py
   * loops through generated CSV file and updates any parcel with a differing value
   * uses cx_Oracle module to connect to and update the IRIS database
+
+_Note: SDE connection files and IRIS database credentials have been excluded from this repo for security._
